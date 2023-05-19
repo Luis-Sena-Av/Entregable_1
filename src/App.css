@@ -53,7 +53,7 @@ span::after{
   justify-content: center;
   align-items: center;
   position: absolute;
-  top: 6rem;
+  top: 3.5rem;
 }
 .frase svg{
   border: none;
@@ -114,6 +114,4 @@ span::after{
   h2{
     font-size: 1.5rem;
   }
- 
-  
 }
